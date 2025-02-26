@@ -1,0 +1,5 @@
+torch==2.5.1
+streamlit==1.36.0
+sentence-transformers==2.2.2
+nltk==3.9.1
+numpy==1.25.2
